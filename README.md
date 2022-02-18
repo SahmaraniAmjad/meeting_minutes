@@ -4,7 +4,7 @@
 * [Setup](#setup)
 
 ## General info
-This project is about creating meeting minutes and the ability to download them to save them for a later use
+This project is about creating meeting minutes and the ability to download them as pdf to save them for a later use
 	
 ## Technologies
 Project is created with:
